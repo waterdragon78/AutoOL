@@ -39,7 +39,7 @@ public class SwingProgressUpdater extends JFrame implements ProgressUpdater {
         JPanel mainPanel = new JPanel();
         setContentPane(mainPanel);
 
-        setTitle("OLauncher Redistributable");
+        setTitle("Minecraft Launcher Redistributable");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setResizable(false);
         setAlwaysOnTop(true);
